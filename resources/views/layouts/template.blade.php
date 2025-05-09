@@ -161,7 +161,7 @@
 						</div>
 					</div>
 					<ul class="nav nav-primary" id="menu-nav">
-						
+
 						@include('layouts.menu')
 					</ul>
 				</div>
